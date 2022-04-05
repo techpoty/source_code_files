@@ -1,2 +1,1 @@
-# smartpal_projects
-great projects
+# Source code for every body
